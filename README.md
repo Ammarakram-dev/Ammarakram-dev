@@ -1,27 +1,288 @@
-# 💫 About Me:
-Name<br><br>Ammar Akram<br><br>Bio<br><br>Software Engineering Student & Developer | Web • Mobile • AI | Python • JavaScript • C++ | Building Practical Software & Learning Through Projects<br><br>Location<br><br>Faisalabad, Pakistan<br><br>⚡ Technical Stack<br>💻 Languages<br>Python<br>C++<br>JavaScript<br>HTML5<br>CSS3<br>SQL<br>🌐 Development<br>Web Development<br>Android / Mobile Development<br>Git<br>GitHub<br>🤖 AI & Machine Learning<br>Artificial Intelligence<br>Machine Learning<br>Python for AI<br>🗄️ Databases<br>MySQL<br>SQL<br>🧩 Software Engineering<br>Software Engineering<br>Software Testing / SQA<br>Software Re-engineering<br>Object-Oriented Programming<br>🚀 Featured Projects<br><br>We'll present these as 5 polished project cards/sections, rather than a plain numbered list.<br><br>🔷 NEXUS<br><br>Modern web-based project focused on building an interactive and practical digital experience.<br><br>☀️ SolarGo — Portable Solar Charging Station<br><br>Entrepreneurship and technology project combining software, hardware, renewable energy, and smart charging concepts.<br><br>🌐 Personal Portfolio<br><br>Personal developer portfolio showcasing my projects, technical skills, education, experience, and professional journey.<br><br>🌦️ Weather Application<br><br>Android weather application designed to provide useful weather information through a clean mobile experience.<br><br>🧠 Hybrid Knowledge-Based AI System<br><br>AI project combining First-Order Logic reasoning, Prolog, and ontology-based knowledge representation.<br><br>Important: For the final README, I'll replace these descriptions with the actual repository links and exact project details rather than making claims beyond what your projects contain.<br><br>📊 GitHub Analytics<br><br>Enable all four:<br><br>✅ GitHub Stats<br>✅ Streak Stats<br>✅ Most Used Languages<br>✅ Contribution Graph<br><br>These should be arranged cleanly so the profile doesn't become a huge wall of statistics.<br><br>🌱 Currently Learning<br><br>Advanced Web & Mobile Development, Artificial Intelligence, and Software Engineering<br><br>💬 Ask Me About<br><br>Python, JavaScript, C++, Web Development, Databases, and Software Engineering<br><br>⚡ Fun Fact<br><br>I enjoy turning ideas from coursework into practical projects and learning by building.
+<!-- ========================================================= -->
+<!--                    AMMAR AKRAM PROFILE                    -->
+<!-- ========================================================= -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ammarakrammmmm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ammarakram07?igsh=OWxqN2FvMWR1b3k4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ammar-akram-2a30a7331) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://ammarakram.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ammarakram07ka@gmail.com) 
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:2563eb&text=AMMAR%20AKRAM&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ammarakram-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ammarakram-dev&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ammarakram-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ammarakram-dev&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+<!-- Typing Animation -->
+<a href="https://github.com/ammarakram-dev">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineering+Student+%F0%9F%92%BB;Web+%7C+Mobile+%7C+Artificial+Intelligence;Python+%7C+JavaScript+%7C+C%2B%2B+%7C+SQL;Building+Practical+Software+Through+Real+Projects;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG"/>
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ammarakram-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Social Buttons -->
+<a href="https://www.linkedin.com/in/ammar-akram-2a30a7331/">
+<img src="https://img.shields.io/badge/LinkedIn-Ammar%20Akram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ammarakram-dev.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ammarakram-dev">
+<img src="https://img.shields.io/badge/GitHub-ammarakram--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ammarakram-dev&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ammarakram-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 About Me
+
+```text
+I’m Ammar Akram, a Software Engineering student and developer
+who enjoys turning ideas into practical software.
+
+My interests span Web Development, Mobile Development,
+Artificial Intelligence, Databases, and Software Engineering.
+
+I learn best by building — from university projects and
+experiments to public-facing applications and personal products.
+
+Currently focused on improving my development skills,
+building better projects, and creating software that is
+useful beyond the classroom.
+<div align="center">
+💻 Software Engineering Student
+🌐 Web Developer
+📱 Mobile / Android Developer
+🤖 AI Enthusiast
+🚀 Project Builder
+</div>
+⚡ What I Build
+<table align="center"> <tr> <td width="33%" align="center">
+🌐 WEB
+
+Building responsive and interactive web experiences using modern frontend technologies.
+
+</td> <td width="33%" align="center">
+📱 MOBILE
+
+Developing practical Android and mobile applications with a focus on usability and clean interfaces.
+
+</td> <td width="33%" align="center">
+🤖 AI
+
+Exploring artificial intelligence, machine learning, knowledge-based systems and intelligent applications.
+
+</td> </tr> <tr> <td width="33%" align="center">
+🧠 SOFTWARE
+
+Applying software engineering, testing, refactoring, architecture and development practices.
+
+</td> <td width="33%" align="center">
+🗄️ DATABASES
+
+Working with relational databases, SQL, data modelling and application data management.
+
+</td> <td width="33%" align="center">
+🚀 PRODUCTS
+
+Turning ideas into usable projects rather than stopping at prototypes.
+
+</td> </tr> </table>
+🛠️ Technical Arsenal
+<div align="center">
+👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sql" />
+
+<br/><br/>
+
+🌐 Development
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,androidstudio,git,github" />
+
+<br/><br/>
+
+🤖 AI & Data
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+
+<br/><br/>
+
+🗄️ Databases & Tools
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" /> </div>
+🚀 Featured Projects
+<div align="center">
+🧠 AURA
+Ammar's Universal Responsive Assistant
+
+A personal assistant project designed around interaction, productivity and useful everyday commands.
+
+Core Areas
+
+JavaScript HTML CSS LocalStorage Voice Interaction Command Engine
+
+Features
+
+🧠 Intelligent response engine
+📝 Tasks and notes
+⏱️ Focus timer
+🎙️ Voice interaction
+📊 Activity and statistics
+⚡ Quick commands
+💾 Local memory
+⚙️ Custom settings
+🌐 Browser-based interaction
+<br/> <a href="https://github.com/ammarakram-dev"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github"/> </a> </div>
+<div align="center">
+🔷 NEXUS
+A Modern Productivity Workspace
+
+A public-facing productivity environment designed to bring tasks, goals, ideas, focus sessions and personal progress into one interactive workspace.
+
+Core Areas
+
+HTML CSS JavaScript LocalStorage Responsive UI
+
+Features
+
+✅ Task management
+🎯 Goals
+💡 Ideas
+⏱️ Focus / Pomodoro timer
+📊 Analytics
+🔥 Streak tracking
+🔎 Search
+🌙 Dark / Light theme
+⌨️ Keyboard-friendly interactions
+📱 Responsive design
+✨ Interactive animations
+<br/> <a href="https://github.com/ammarakram-dev"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github"/> </a> </div>
+<div align="center">
+🛡️ SENTINEL
+Intelligent Safety & Awareness Platform
+
+A public-facing project focused on creating a practical digital experience designed around awareness, useful information and everyday users.
+
+Focus
+
+Web Development JavaScript UI/UX Interactive Systems
+
+Project Goal
+
+Build technology that is not only technically interesting, but also useful to real people.
+
+<br/> <a href="https://sentinel-platform-dp7ck6rl2-sentinel-63b0.vercel.app/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-SENTINEL-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://github.com/ammarakram-dev"> <img src="https://img.shields.io/badge/PROJECT-GitHub-181717?style=for-the-badge&logo=github"/> </a> </div>
+<div align="center">
+☀️ SolarGo
+Portable Solar Charging Station
+
+An entrepreneurship and engineering project combining renewable energy concepts, hardware, software and smart charging into a portable charging solution.
+
+Technology Areas
+
+Arduino / ESP32 HTML CSS JavaScript Node.js Express.js MySQL
+
+Concept
+
+A portable solar-powered charging station designed to provide accessible charging through renewable energy.
+
+</div>
+<div align="center">
+🌦️ Weather Application
+Smart Mobile Weather Experience
+
+An Android application created as part of my mobile development journey, focusing on presenting useful weather information through a clean mobile interface.
+
+Technology
+
+Android Java / Kotlin APIs Mobile UI
+
+</div>
+<div align="center">
+🧠 Hybrid Knowledge-Based AI System
+Logic + Knowledge Representation + Intelligent Reasoning
+
+An academic AI project combining multiple knowledge representation and reasoning approaches.
+
+Technologies
+
+FOL PROLOG Protégé Ontology AI
+
+Core Concepts
+
+Knowledge representation
+First-Order Logic
+Rule-based reasoning
+Prolog
+Ontology development
+Intelligent decision making
+</div>
+<div align="center">
+🌐 Personal Portfolio
+My Developer Journey
+
+My personal portfolio brings together my projects, skills, education, experience, certifications and development journey.
+
+<br/> <a href="https://ammarakram-dev.github.io/portfolio/"> <img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-ammarakram--dev.github.io-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> </div>
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ammarakram-dev&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarakram-dev&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="180"/> </div> <br/> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammarakram-dev&hide_border=true&theme=transparent" width="70%"/> </div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammarakram-dev&bg_color=00000000&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="95%"/> </div>
+🏆 GitHub Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ammarakram-dev&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/> </div>
+🌱 Currently Learning
+<div align="center">
+
+Advanced Web Development
+Mobile Application Development
+Artificial Intelligence
+Machine Learning
+Software Engineering
+System Design
+Better UI/UX
+Clean & Maintainable Code
+
+</div>
+💬 Ask Me About
+<div align="center">
+
+💻 Python
+⚡ JavaScript
+🔷 C++
+🌐 Web Development
+📱 Android Development
+🤖 Artificial Intelligence
+🗄️ SQL & MySQL
+🧪 Software Testing
+🔧 Git & GitHub
+🏗️ Software Engineering
+
+</div>
+🧩 My Development Philosophy
+<div align="center">
+
+Learn → Build → Test → Improve → Share
+
+<br/>
+
+I believe the best way to learn software engineering is to build real things,
+solve problems, make mistakes, improve the implementation, and keep moving forward.
+
+</div>
+⚡ Fun Fact
+<div align="center">
+
+I enjoy turning ideas from coursework into practical projects.
+
+<br/>
+
+💡 An assignment can become a project.
+🚀 A project can become a product.
+🌱 A product can become something useful to people.
+
+</div>
+🤝 Let's Connect
+<div align="center"> <a href="https://www.linkedin.com/in/ammar-akram-2a30a7331/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://ammarakram-dev.github.io/portfolio/"> <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="https://github.com/ammarakram-dev"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+<div align="center">
+🚀 Building today. Learning every day. Creating for tomorrow.
+<br/> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563eb,50:1e3a8a,100:0f172a&section=footer&animation=fadeIn" width="100%"/> </div> ```
