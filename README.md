@@ -1,14 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0f172a,65:1e3a8a,100:2563eb&text=AMMAR%20AKRAM&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20WEB%20%7C%20MOBILE%20%7C%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:111827,50:312e81,75:1d4ed8,100:020617&text=AMMAR%20AKRAM&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20MACHINE%20LEARNING%20%E2%80%A2%20SOFTWARE%20ENGINEERING%20%E2%80%A2%20AI%20AUTOMATION&descAlignY=62&descSize=17&animation=twinkling" width="100%"/>
 
-<a href="https://github.com/ammarakram-dev">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+%F0%9F%92%BB;Developer+%7C+Builder+%7C+Problem+Solver;Web+Development+%7C+Mobile+Development+%7C+Artificial+Intelligence;Python+%7C+JavaScript+%7C+C%2B%2B+%7C+SQL;Turning+Ideas+Into+Practical+Software+%F0%9F%9A%80;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%E2%80%A2+Repeat" alt="Typing Animation"/>
-</a>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=1000&lines=AI+%26+Machine+Learning+Engineer+in+Progress+%F0%9F%A7%A0;Software+Engineering+Student+%7C+Builder+%7C+Problem+Solver;Building+AI+Agents+%7C+LLMs+%7C+Automation+%7C+Intelligent+Systems;Python+%7C+Data+Science+%7C+Software+Development+%7C+Cybersecurity;Turning+Ideas+Into+Real+Software+Products+%F0%9F%9A%80;Learn+%E2%80%A2+Build+%E2%80%A2+Experiment+%E2%80%A2+Improve" alt="Typing Animation"/>
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/ammar-akram-2a30a7331/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://ammarakram-dev.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="mailto:ammarakram07ka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/ammarakram-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/ammarakram-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ammar-akram-2a30a7331/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://ammarakram-dev.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="mailto:ammarakram07ka@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br><br>
 
@@ -20,103 +31,137 @@
 
 <div align="center">
 
-# 👨‍💻 AMMAR AKRAM
-
-### Software Engineering Student • Developer • Builder
-
-<p>
-I’m a Software Engineering student and developer focused on building
-<br/>
-practical, interactive and user-oriented software across
-<br/>
-<strong>Web Development • Mobile Development • Artificial Intelligence • Databases</strong>.
-</p>
-
-<p>
-I learn by building, experiment through projects, and continuously
-<br/>
-improve my engineering, problem-solving and development skills.
-</p>
+## ◈ THE BUILDER
 
 </div>
 
----
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<div align="center">
+### Hi, I'm Ammar 👋
 
-# 🧭 MY DEVELOPMENT JOURNEY
+I'm a **Software Engineering student and developer** focused on building intelligent, practical and user-oriented software systems.
 
-</div>
+My work is increasingly centered around:
+
+* 🧠 Artificial Intelligence & Machine Learning
+* 🤖 AI Agents & Automation
+* 🔬 LLM experimentation & local model development
+* 📊 Data Science & Analytics
+* 🐍 Python engineering
+* 🌐 Web & API development
+* 📱 Mobile application development
+* 🛡️ Cybersecurity & intelligent monitoring
+* 🏗️ Software engineering & system design
+
+I learn by **building real systems**, experimenting with new technologies, breaking things, fixing them, and turning those lessons into better software.
+
+</td>
+
+<td width="42%" valign="top">
 
 ```text
-                         ┌─────────────────────┐
-                         │       IDEA 💡       │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │      DESIGN 🎨      │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │      BUILD 💻       │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │      TEST 🧪        │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │     IMPROVE ⚡      │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │     DEPLOY 🚀       │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │     ITERATE 🔄      │
-                         └─────────────────────┘
+┌──────────────────────────────┐
+│       AMMAR AKRAM            │
+│                              │
+│  AI / ML        ████████░░   │
+│  Python         █████████░   │
+│  Software       ████████░░   │
+│  Automation     ███████░░░   │
+│  Data           ███████░░░   │
+│  Web            ████████░░   │
+│  Security       ██████░░░░   │
+│                              │
+│  STATUS                       │
+│  ● BUILDING                  │
+│  ● LEARNING                  │
+│  ● EXPERIMENTING             │
+│                              │
+└──────────────────────────────┘
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-# ⚡ TECHNOLOGY UNIVERSE
+# 🌌 MY ENGINEERING UNIVERSE
 
-### 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Animation" width="90%"/>
 
 <br><br>
 
-### 🌐 Development
+```text
+                         ✦ AI
+                        ╱   ╲
+                       ╱     ╲
+                 DATA ✦───────✦ AUTOMATION
+                     ╱         ╲
+                    ╱           ╲
+             PYTHON ✦           ✦ SOFTWARE
+                    ╲           ╱
+                     ╲         ╱
+                 SECURITY ✦───✦ PRODUCTS
+                         ╲   ╱
+                          ✦
+                       BUILD
+```
 
-<img src="https://skillicons.dev/icons?i=nodejs,androidstudio,git,github,vscode" />
+</div>
 
-<br><br>
+---
 
-### 🤖 AI & Data
+<div align="center">
+
+# ⚡ TECHNOLOGY MATRIX
+
+### 🧠 AI / MACHINE LEARNING
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
 <br><br>
 
-### 🗄️ Database
+`Artificial Intelligence` `Machine Learning` `LLMs` `AI Agents` `RAG` `Automation` `Knowledge Systems` `Data Analysis`
+
+<br><br>
+
+### 💻 SOFTWARE ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+
+<br><br>
+
+`Python` `C++` `Java` `JavaScript` `HTML` `CSS` `OOP` `Software Testing` `SQA`
+
+<br><br>
+
+### 🌐 APPLICATION DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,fastapi,androidstudio" />
+
+<br><br>
+
+`Next.js` `Node.js` `FastAPI` `REST APIs` `Web Applications` `Android Development`
+
+<br><br>
+
+### 🗄️ DATA & DATABASES
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
 <br><br>
 
-### 🎨 Design & Product
+`SQL` `MySQL` `Data Processing` `Data Analytics` `Data Cleaning` `Data Visualization`
 
-<img src="https://skillicons.dev/icons?i=figma,canva" />
+<br><br>
+
+### 🛠️ ENGINEERING TOOLCHAIN
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva" />
 
 </div>
 
@@ -124,9 +169,9 @@ improve my engineering, problem-solving and development skills.
 
 <div align="center">
 
-# 🚀 FEATURED PROJECTS
+# 🚀 PROJECT CONSTELLATION
 
-### Building ideas into practical experiences.
+### A collection of systems, products, experiments and engineering work.
 
 </div>
 
@@ -134,35 +179,76 @@ improve my engineering, problem-solving and development skills.
 <tr>
 <td width="50%" valign="top">
 
-## 🧠 AURA
+## 🧠 AETHER
 
-### Ammar's Universal Responsive Assistant
+### Local LLM / Model Engineering
 
-A browser-based personal assistant designed around productivity, interaction, memory and useful everyday commands.
+A long-term local language-model development project focused on understanding the complete journey from **data → tokenizer → training → checkpoints → inference**.
 
-**Core Features**
+**Current Work**
 
-* 🧠 Response Engine
-* 📝 Tasks & Notes
-* ⏱️ Focus Timer
-* 🎙️ Voice Interaction
-* ⚡ Quick Commands
-* 📊 Activity & Statistics
-* 💾 Local Memory
-* ⚙️ Settings
-* 🌐 Browser Interaction
+* 🧬 Corpus engineering
+* 🔤 BPE / ByteLevel tokenization
+* 🧠 Transformer architecture
+* ⚙️ CPU-safe training
+* 💾 Model checkpoints
+* 📉 Loss tracking
+* 🔬 Inference experiments
+* 🧪 Iterative model improvements
+
+**Direction**
+
+`LLMs` `NLP` `Transformers` `PyTorch` `Tokenization` `Model Training`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 ORVEXA
+
+### Autonomous AI Automation Platform
+
+A product-oriented AI automation system designed around intelligent workflows, task execution and useful autonomous assistance.
+
+**Focus**
+
+* 🧠 AI reasoning
+* ⚙️ Workflow automation
+* 🔄 Task orchestration
+* 🗂️ Mission-based execution
+* 🌐 Web application
+* 🔌 API architecture
+* 🧩 Modular system design
 
 **Stack**
 
-`HTML` `CSS` `JavaScript` `LocalStorage` `Web APIs`
+`Next.js` `FastAPI` `Python` `AI Automation`
 
-<div align="center">
+</td>
+</tr>
 
-<a href="https://github.com/ammarakram-dev">
-<img src="https://img.shields.io/badge/VIEW%20AURA-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+## 🧠 COGNARA AI AGENT
+
+### Intelligent Personal Work Assistant
+
+An advanced AI-agent project exploring how software agents can assist with real-world work such as organizing tasks, processing information and eventually interacting with communication/workflow systems.
+
+**Direction**
+
+* 🤖 Agent architecture
+* 🧠 Reasoning
+* 🗂️ Task management
+* 💾 Persistence
+* ⚙️ Automation
+* 🔌 Tool integration
+* 🧩 Modular architecture
+
+**Focus**
+
+`Python` `AI Agents` `Automation` `Persistence` `Software Architecture`
 
 </td>
 
@@ -170,36 +256,27 @@ A browser-based personal assistant designed around productivity, interaction, me
 
 ## 🔷 NEXUS
 
-### Modern Productivity Workspace
+### Productivity Command Center
 
-A public-facing productivity workspace bringing tasks, goals, ideas, focus sessions, analytics and progress into one interactive environment.
+A public-facing productivity workspace designed to bring everyday planning and focus into one interactive environment.
 
-**Core Features**
+**Features**
 
 * ✅ Tasks
 * 🎯 Goals
 * 💡 Ideas
-* ⏱️ Pomodoro Focus
+* ⏱️ Focus timer
 * 📊 Analytics
 * 🔥 Streaks
 * 🔎 Search
 * 🌙 Themes
-* ⌨️ Keyboard Support
-* 📱 Responsive UI
-* ✨ Animations
-* 💾 Local Storage
+* ⌨️ Keyboard support
+* 💾 Local persistence
+* 📱 Responsive interface
 
 **Stack**
 
 `HTML` `CSS` `JavaScript` `LocalStorage`
-
-<div align="center">
-
-<a href="https://github.com/ammarakram-dev">
-<img src="https://img.shields.io/badge/VIEW%20NEXUS-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
 
 </td>
 </tr>
@@ -209,121 +286,134 @@ A public-facing productivity workspace bringing tasks, goals, ideas, focus sessi
 
 ## 🛡️ SENTINEL
 
-### Intelligent Public-Facing Platform
+### Intelligent Threat Monitoring
 
-A live public-facing project built around practical digital experiences, modern interfaces and real-world usability.
+A FastAPI-based security monitoring project designed around detecting and presenting potentially suspicious activity through a practical software interface.
 
 **Focus**
 
-* 🌐 Interactive Web Experience
-* 🎨 Modern UI
-* 📱 Responsive Design
-* ⚡ Interactive Components
-* 🧠 Intelligent Features
-* 👥 User-Oriented Experience
+* 🔐 Threat monitoring
+* 📡 Event processing
+* 🧠 Intelligent analysis
+* ⚡ FastAPI backend
+* 📊 Monitoring interface
+* 🌐 Public deployment
 
 **Stack**
 
-`HTML` `CSS` `JavaScript` `Vercel`
+`Python` `FastAPI` `JavaScript` `Security` `Vercel`
 
-<div align="center">
+<br>
 
 <a href="https://sentinel-platform-dp7ck6rl2-sentinel-63b0.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE%20PLATFORM-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-</div>
 
 </td>
 
+<td width="50%" valign="top">
+
+## 🌦️ ATMOSIA
+
+### Modern Weather Experience
+
+A live weather application focused on transforming weather information into a clean, interactive and accessible digital experience.
+
+**Focus**
+
+* 🌤️ Weather information
+* 🌐 API integration
+* 📱 Responsive experience
+* 🎨 Interactive UI
+* ⚡ Fast user experience
+* 🚀 Public deployment
+
+**Stack**
+
+`JavaScript` `HTML` `CSS` `APIs` `Vercel`
+
+<br>
+
+<a href="https://atmosia.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20ATMOSIA-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🧠 NEXORA
+
+### Intelligent Product Concept
+
+A product-focused AI system exploring how intelligent software can perform useful workflows for everyday users instead of functioning only as a demonstration.
+
+**Direction**
+
+* 🤖 AI assistance
+* ⚙️ Workflow execution
+* 🧠 Intelligent interaction
+* 🗂️ Task handling
+* 🔌 API integration
+* 🌐 Product architecture
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📱 KYNTRA
+
+### Android Fitness Application
+
+A mobile application project focused on creating a practical fitness experience with modern Android development principles.
+
+**Focus**
+
+* 📱 Android development
+* 🏋️ Fitness workflows
+* 🎨 Mobile UI
+* 🧩 Application architecture
+* 💾 Application data
+* ⚡ User experience
+
+**Stack**
+
+`Android` `Java/Kotlin` `Gradle` `Mobile Development`
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ## ☀️ SOLARGO
 
-### Portable Solar Charging Station
+### Portable Solar Charging Concept
 
-An entrepreneurship and engineering project combining renewable energy, hardware and software into a portable charging concept.
+An entrepreneurship and engineering project combining renewable energy, embedded systems and software.
 
 **Technology Areas**
 
-* ☀️ Solar Energy
-* 🔋 Battery Storage
-* ⚡ Smart Charging
-* 🔌 Arduino / ESP32
-* 🌐 Web Interface
-* 🗄️ Database Integration
-
-**Stack**
-
-`Arduino` `ESP32` `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MySQL`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 🌦️ WEATHER APPLICATION
-
-### Smart Android Weather Experience
-
-A mobile application created during my Android development journey, focused on presenting useful weather information through a clean mobile interface.
-
-**Focus**
-
-* 📱 Android Development
-* 🌤️ Weather Information
-* 🎨 Mobile UI
-* 🌐 API Integration
-* ⚡ Interactive Experience
-
-**Area**
-
-`Android` `Mobile Development` `APIs`
+`Solar Energy` `Arduino` `ESP32` `Node.js` `Express.js` `MySQL` `Web`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🧠 HYBRID KNOWLEDGE-BASED AI
+## 🧬 AI / DATA PROJECTS
 
-### Logic • Knowledge • Reasoning
+My wider project portfolio also includes work involving:
 
-An AI project combining knowledge representation and reasoning approaches.
-
-**Core Concepts**
-
-* First-Order Logic
-* PROLOG
-* Protégé
-* Ontology
-* Rule-Based Reasoning
-* Knowledge Representation
-* Intelligent Decision Making
-
-**Technologies**
-
-`FOL` `PROLOG` `Protégé` `Ontology` `AI`
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-## 🌐 PERSONAL PORTFOLIO
-
-### My Professional Development Showcase
-
-A personal portfolio bringing together my projects, skills, education, experience, certifications and development journey.
-
-<div align="center">
-
-<a href="https://ammarakram-dev.github.io/portfolio/">
-<img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
+* 📊 Data analysis
+* 🧹 Data cleaning
+* 📈 Visualization
+* 🤖 Machine learning
+* 🧠 Knowledge representation
+* 🔬 AI experimentation
+* 🛡️ Cybersecurity
+* 🧪 Software quality
 
 </td>
 </tr>
@@ -333,173 +423,285 @@ A personal portfolio bringing together my projects, skills, education, experienc
 
 <div align="center">
 
-# 🧩 ENGINEERING AREAS
-
-|   🌐 Web   |    📱 Mobile    |          🤖 AI          |    🗄️ Data    |
-| :--------: | :-------------: | :---------------------: | :------------: |
-|    HTML    |     Android     | Artificial Intelligence |       SQL      |
-|     CSS    |    Mobile UI    |     Machine Learning    |      MySQL     |
-| JavaScript |       APIs      |    Knowledge Systems    |    Databases   |
-|   Node.js  | App Development |          PROLOG         | Data Modelling |
-
-| 🏗️ Software Engineering |     🧪 Quality    |    🎨 Product   |
-| :----------------------: | :---------------: | :-------------: |
-|            OOP           |  Software Testing |     UI / UX     |
-|      Re-engineering      |        SQA        |      Figma      |
-|        Development       | Quality Practices |      Canva      |
-|       Git / GitHub       |     Debugging     | User Experience |
-
-</div>
-
----
-
-<div align="center">
-
-# 📊 GITHUB ANALYTICS
-
-<br>
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=ammarakram-dev&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github"
-height="190"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarakram-dev&layout=compact&hide_border=true&theme=transparent&langs_count=8"
-height="190"
-/>
-
-<br><br>
-
-<img
-src="https://streak-stats.demolab.com/?user=ammarakram-dev&theme=transparent&hide_border=true"
-width="75%"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📈 CONTRIBUTION ACTIVITY
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ammarakram-dev&bg_color=00000000&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true"
-width="96%"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 GITHUB ACHIEVEMENTS
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=ammarakram-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"
-width="96%"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🧠 WHAT I'M LEARNING
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### 🌐
-
-**Advanced Web**
-
-Modern interfaces, application architecture and interactive experiences.
-
-</td>
-
-<td align="center" width="25%">
-
-### 📱
-
-**Mobile**
-
-Android development and practical application design.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**Artificial Intelligence**
-
-AI, machine learning and intelligent systems.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🏗️
-
-**Engineering**
-
-Software quality, architecture and maintainable development.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 💬 ASK ME ABOUT
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-
-<br><br>
-
-**Web Development • Mobile Development • Artificial Intelligence • Databases • Software Engineering • Software Testing**
-
-</div>
-
----
-
-<div align="center">
-
-# 🌱 MY CURRENT FOCUS
+# 🛰️ CURRENT BUILD PIPELINE
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🌐  BUILD BETTER WEB EXPERIENCES                         │
-│                                                             │
-│   📱  DEVELOP PRACTICAL MOBILE APPLICATIONS                │
-│                                                             │
-│   🤖  EXPLORE ARTIFICIAL INTELLIGENCE                      │
-│                                                             │
-│   🧠  STRENGTHEN SOFTWARE ENGINEERING FUNDAMENTALS         │
-│                                                             │
-│   🚀  TURN PROJECTS INTO REAL-WORLD PRODUCTS               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+       ┌─────────────┐
+       │     IDEA    │
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │   RESEARCH  │
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │   DESIGN    │
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │    BUILD    │
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │    TEST     │
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │   IMPROVE   │
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │   DEPLOY    │
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │   ITERATE   │
+       └─────────────┘
 ```
+
+</div>
+
+---
+
+<div align="center">
+
+# 💼 EXPERIENCE & PROFESSIONAL DEVELOPMENT
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 DevSphere — Machine Learning
+
+Working on practical machine-learning and data-analysis tasks, strengthening skills in:
+
+`Python` `Pandas` `Data Analysis` `Visualization` `Machine Learning`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Arch Technologies
+
+Software-development internship experience involving practical development workflows, problem solving and engineering practice.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 DeveloperHub
+
+Development internship experience focused on building practical software projects and strengthening professional development skills.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Oasis Infobyte
+
+AI/ML-oriented internship experience focused on applying development and artificial-intelligence concepts through practical projects.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🎓 EDUCATION
+
+### BS SOFTWARE ENGINEERING
+
+**2023 — 2027**
+
+Software Engineering • Artificial Intelligence • Programming • Databases • Software Quality • System Development
+
+<br>
+
+`Currently progressing through advanced software-engineering and AI/ML work.`
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 CERTIFICATIONS & ACHIEVEMENTS
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🛡️ Cybersecurity
+
+**CS50's Introduction to Cybersecurity**
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 Artificial Intelligence
+
+**Artificial Intelligence Using Python**
+
+</td>
+
+<td align="center" width="33%">
+
+### 🐍 Python
+
+**Python Essentials 1**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🧠 Generative AI
+
+**Getting Started With Generative AI**
+
+</td>
+
+<td align="center">
+
+### 💬 Professional Skills
+
+**Communication & Soft Skills**
+
+</td>
+
+<td align="center">
+
+### 🏆 Hackathon
+
+**FortyGuard Hackathon '26 Participant**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 GITHUB COMMAND CENTER
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ammarakram-dev&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github&custom_title=AMMAR%27S%20GITHUB%20ACTIVITY" height="190"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarakram-dev&layout=compact&hide_border=true&theme=transparent&langs_count=8&custom_title=TECHNOLOGY%20DISTRIBUTION" height="190"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=ammarakram-dev&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" width="75%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ammarakram-dev&bg_color=00000000&color=60A5FA&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20NETWORK" width="96%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏅 GITHUB TROPHY WALL
+
+<img src="https://github-profile-trophy.vercel.app/?username=ammarakram-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="96%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🧠 CURRENT LEARNING VECTOR
+
+```text
+                    ┌───────────────────┐
+                    │  ARTIFICIAL       │
+                    │  INTELLIGENCE     │
+                    └─────────┬─────────┘
+                              │
+              ┌───────────────┼───────────────┐
+              ▼               ▼               ▼
+          ┌───────┐       ┌───────┐       ┌────────┐
+          │  LLM  │       │ AGENT │       │  RAG   │
+          └───┬───┘       └───┬───┘       └───┬────┘
+              │               │               │
+              └───────────────┼───────────────┘
+                              ▼
+                       ┌────────────┐
+                       │ AUTOMATION │
+                       └─────┬──────┘
+                             │
+                             ▼
+                      ┌──────────────┐
+                      │ REAL PRODUCTS│
+                      └──────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# 🔬 WHAT I'M BUILDING TOWARD
+
+|     Domain    | Direction                                                 |
+| :-----------: | :-------------------------------------------------------- |
+|     🧠 AI     | Intelligent systems, LLMs, agents and reasoning           |
+| 🤖 Automation | AI-powered workflows and task execution                   |
+|   🐍 Python   | Production-oriented AI and software development           |
+|    📊 Data    | Analytics, processing and machine-learning workflows      |
+|  🌐 Software  | Modern applications, APIs and scalable architecture       |
+|  🛡️ Security | Monitoring, cybersecurity and intelligent threat analysis |
+|   📱 Mobile   | Practical Android applications                            |
+|  🚀 Products  | Turning technical experiments into usable software        |
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 DIGITAL PRESENCE
+
+<a href="https://ammarakram-dev.github.io/portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ammar-akram-2a30a7331/">
+<img src="https://img.shields.io/badge/LINKEDIN-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ammarakram-dev">
+<img src="https://img.shields.io/badge/GITHUB-Projects%20%26%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:ammarakram07ka@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -509,76 +711,56 @@ Software quality, architecture and maintainable development.
 
 # ⚡ BEYOND THE CODE
 
-### I enjoy turning ideas from coursework into practical projects.
+<table>
+<tr>
+<td align="center" width="20%">
+
+### 💡
+
+**Imagine**
+
+</td>
+<td align="center" width="20%">
+
+### 🧠
+
+**Learn**
+
+</td>
+<td align="center" width="20%">
+
+### 💻
+
+**Build**
+
+</td>
+<td align="center" width="20%">
+
+### 🧪
+
+**Experiment**
+
+</td>
+<td align="center" width="20%">
+
+### 🚀
+
+**Ship**
+
+</td>
+</tr>
+</table>
 
 <br>
 
-**💡 Idea**
-
-↓
-
-**🧠 Learn**
-
-↓
-
-**💻 Build**
-
-↓
-
-**🧪 Test**
-
-↓
-
-**⚡ Improve**
-
-↓
-
-**🚀 Share**
+> **I don't just want to learn technology. I want to use it to build things that are useful.**
 
 <br>
 
-### Every project is another step forward.
-
-</div>
-
----
-
-<div align="center">
-
-# 🤝 LET'S CONNECT
+### `LEARN • BUILD • EXPERIMENT • IMPROVE • CREATE`
 
 <br>
 
-<a href="https://www.linkedin.com/in/ammar-akram-2a30a7331/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://ammarakram-dev.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:ammarakram07ka@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ammarakram-dev">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ammarakram-dev&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 LEARN • BUILD • IMPROVE • CREATE
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:2563EB,45:1E3A8A,100:020617&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,30:1e3a8a,60:312e81,100:020617&section=footer&animation=twinkling" width="100%"/>
 
 </div>
